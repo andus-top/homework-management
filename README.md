@@ -1,2 +1,2 @@
 # homework-management
-作业管理系统-JAVA控制台程序
+学习java时写的控制台程序，今天才把它整理出来
