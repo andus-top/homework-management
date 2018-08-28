@@ -1,7 +1,7 @@
 ### homework-management
 大二学习java时写的控制台程序，今天才把它整理出来
 ### 功能结构图
-<center><img src="https://github.com/songlinsheep/homework-management/blob/master/Screenshots/fun-structs.png" width="800" /></center>
+<center><img src="https://github.com/songlinsheep/homework-management/blob/master/Screenshots/fun-structs.png" width="800" /></center><br/>
 ### 部分操作截图
 <center><img src="https://github.com/songlinsheep/homework-management/blob/master/Screenshots/1.png" width="800" /></center><br/>
 <center><img src="https://github.com/songlinsheep/homework-management/blob/master/Screenshots/2.png" width="800" /></center><br/>
