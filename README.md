@@ -1,5 +1,5 @@
 ### homework-management
-学习java时写的控制台程序，今天才把它整理出来
+大二学习java时写的控制台程序，今天才把它整理出来
 ### 功能结构图
 <center><img src="https://github.com/songlinsheep/homework-management/blob/master/Screenshots/fun-structs.png" /></center>
 ### 部分操作截图
